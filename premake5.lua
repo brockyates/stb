@@ -7,8 +7,8 @@ project "stb_image"
 
     files
     {
-        "src/stb_image.h",
-        "src/stb_image.cpp"
+        "stb_image.h",
+        "stb_image.cpp"
     }
 
     filter "system:windows"
